@@ -1,12 +1,12 @@
-# Propagation d'une rumeur — modèle SIR
+# Propagation d'une rumeur - modèle SIR
 
 Ce projet étudie la propagation d'une rumeur sur un réseau social à l'aide d'une simulation stochastique inspirée du modèle SIR. Chaque personne est représentée par un nœud d'un graphe et la rumeur se propage uniquement entre personnes connectées.
 
 Le modèle distingue trois états :
 
-- **S — Susceptible** : la personne n'a pas encore entendu la rumeur ;
-- **I — Infected** : la personne connaît et propage activement la rumeur ;
-- **R — Recovered** : la personne a rejeté ou oublié la rumeur.
+- **S - Susceptible** : la personne n'a pas encore entendu la rumeur ;
+- **I - Infected** : la personne connaît et propage activement la rumeur ;
+- **R - Recovered** : la personne a rejeté ou oublié la rumeur.
 
 ## Démonstration et documents
 
